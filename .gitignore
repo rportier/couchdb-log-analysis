@@ -1,0 +1,26 @@
+# Log files
+*.log
+*.log.*
+
+# Data files  
+*.csv
+*.parquet
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Power BI
+*.pbix
+
+# IDE
+.vscode/
+.idea/
+*.swp
